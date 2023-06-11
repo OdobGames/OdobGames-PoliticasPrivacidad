@@ -10,7 +10,7 @@ Hemos adoptado esta Política de privacidad, que determina cómo procesamos la i
 Cuidamos tus datos personales y nos comprometemos a garantizar su confidencialidad y seguridad.
 
 Información personal que recopilamos:
-Cuando utilizas alguna aplicacion de OdobGames, recopilamos automáticamente cierta información sobre tu dispositivo, como el identificador de este para crear automaticamente una cuenta en el servidor del Juego, asi podemos identificarte y guardar tus datos y progresos. Además, podemos los datos personales que nos proporcionas como el nombre de usuario o apodo de tu cuenta.
+Cuando utilizas alguna aplicacion de OdobGames, recopilamos automáticamente cierta información sobre tu dispositivo, como el identificador de este para crear automaticamente una cuenta en el servidor del Juego, asi podemos identificarte y guardar tus datos y progresos, la ubicacion aproximada es decir el pais en el que se encuentra el usuario al iniciar sesion en una aplicacion de OdobGames. Además, podemos recopilar los datos personales que nos proporcionas como el nombre de usuario o apodo de tu cuenta.
 
 ¿Por qué procesamos tus datos?
 Nuestra máxima prioridad es la seguridad de los datos del cliente y, como tal, podemos procesar solo los datos mínimos del usuario, solo en la medida en que sea absolutamente necesario para el correcto funcionamiento de las aplicaciones. La información recopilada automáticamente se utiliza solo para el uso de la aplicacion. Esta información no se agrega de tal manera que identifique a ningún usuario en particular del sistema.
